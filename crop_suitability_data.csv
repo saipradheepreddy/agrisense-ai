@@ -1,0 +1,6 @@
+Location,Season,Rainfall,Temperature,Crop,Past_Success,Water_Availability,Adoption
+Warangal,Kharif,High,Medium,Rice,High,Medium,High
+Warangal,Kharif,Medium,Medium,Maize,Medium,Medium,Medium
+Warangal,Kharif,Low,High,Millets,High,Low,Medium
+Nizamabad,Rabi,Medium,Low,Wheat,High,Medium,High
+Anantapur,Summer,Low,High,Millets,High,Low,High
